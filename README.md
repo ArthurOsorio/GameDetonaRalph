@@ -1,4 +1,4 @@
-**Teste o site aqui: https://game-detona-ralph-tan.vercel.app/**
+**Teste o site aqui: https://game-detona-ralph-lake.vercel.app/**
 
 **O que é?**
 
